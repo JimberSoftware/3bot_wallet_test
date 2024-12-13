@@ -27,7 +27,7 @@
     "lodash": "^4.17.19",
     "mnemonicconversion2924": "^1.1.2",
     "stellar-base": "^5.2.1",
-    "stellar-sdk": "^8.2.2",
+    "stellar-sdk": "^8.2.3",
     "tweetnacl-util": "^0.15.1",
     "vue": "^2.6.10",
     "vue-infinite-loading": "^2.4.5",
