@@ -16,7 +16,7 @@
     "@fortawesome/fontawesome-free": "^5.12.1",
     "@jimber/pkid": "^1.0.4",
     "@jimber/stellar-crypto": "^1.5.2",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bip39": "^3.0.3",
     "bitcoin-address-validation": "^2.0.1",
     "circular-json": "^0.5.9",
